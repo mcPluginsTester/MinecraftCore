@@ -1,0 +1,22 @@
+name: MinecraftCore
+version: '${project.version}'
+main: tiie.minecraftcore.MinecraftCore
+api-version: '1.20'
+commands:
+  feed:
+  fly:
+  buildmode:
+  walkspeed:
+  flyspeed:
+  kitcreate:
+  kitremove:
+  kit:
+  invsee:
+  gmc:
+  gma:
+  gms:
+  gmp:
+  ban:
+  kick:
+  setmsg:
+  freeze:
